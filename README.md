@@ -10,6 +10,9 @@ This repository demonstrates the use of reinforcement learning (RL) for optimizi
 
 3. **add_noise.py**: This script contains a subclass of the Llama model, which adds noise and simulates delays in the network. It provides a method for adjusting the dropout probability and simulating real-world noise conditions during the inference process.
 
+4. **reward_predictor.pth**: This is the pre-trained reward surrogate model used by the custom environment in `train_rsm.py`. Ensure this model file is available and correctly loaded during the execution of the training scripts.
+
+
 ## Setup Instructions
 
 ### Requirements
