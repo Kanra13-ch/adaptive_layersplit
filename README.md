@@ -18,7 +18,6 @@ This repository demonstrates the use of reinforcement learning (RL) for optimizi
 - PyTorch
 - Transformers
 - Stable Baselines3
-- Gym
 - Datasets (for evaluation)
 
 ### Install Dependencies
@@ -50,10 +49,3 @@ pip install -r requirements.txt
    python add_noise.py
    ```
 
-### License
-
-This project is licensed under the MIT License.
-
-```
-This README includes instructions for setting up the environment, running the training and testing scripts, and understanding the purpose of the three main files in the repository. If you have any specific requests for additional content or modifications, feel free to let me know!
-```
