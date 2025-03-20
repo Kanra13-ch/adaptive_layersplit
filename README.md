@@ -1,6 +1,13 @@
 # Adaptive Layer Splitting for Wireless LLM Inference
 
-This repository demonstrates the use of reinforcement learning (RL) for optimizing large language model (LLM) inference across edge networks. The project leverages Proximal Policy Optimization (PPO) and a reward surrogate model (RSM) to optimize the split layers of Llama-based models under varying network conditions.
+This repository, corresponding to the paper https://arxiv.org/abs/2406.02616, demonstrates the use of reinforcement learning (RL) for optimizing large language model (LLM) inference across edge networks. The project leverages Proximal Policy Optimization (PPO) and a reward surrogate model (RSM) to optimize the split layers of Llama-based models under varying network conditions.
+
+Note that this is a research project and by definition is unstable. Please write to us if you find something not correct or strange. We are sharing the codes under the condition that reproducing full or part of codes must cite the paper.
+
+## Paper 
+
+- Y. Chen, R. Li, X. Yu, Z. Zhao, and H. Zhang, “Adaptive layer splitting for wireless LLM inference in edge computing: A model-based reinforcement learning approach,” Front. Inform. Technol. Electron. Eng., vol. 26, no. 2, pp. 278–292, Mar. 2025, doi: 10.1631/FITEE.2400468.
+
 
 ## Files Overview
 
